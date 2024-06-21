@@ -1,4 +1,4 @@
-#Pizza Store Sales Optimization Project
+#Pizza Store Sales Optimization Project.
 
 ##Project Overview
 This project focuses on optimizing a pizza store's sales by leveraging SQL to analyze and derive insights from the sales data. The goal is to address key challenges related to order tracking, revenue management, product pricing, and customer preferences to enhance business growth and operational efficiency.
